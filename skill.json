@@ -1,0 +1,10 @@
+{
+  "name": "genpark-meeting-to-tickets",
+  "version": "1.0.0",
+  "description": "GenPark Meeting To Tickets - Action item extraction with RACI assignment, Critical Path Method (CPM) project dependency scheduler, and meeting actionability density auditor with zero dependencies.",
+  "tools": [
+    "extract_action_items_and_raci",
+    "compute_critical_path_schedule",
+    "audit_meeting_actionability_density"
+  ]
+}
